@@ -48,13 +48,13 @@
 
 ### Bank of Communications BBM
 #### Head of Pricing, Apr 2016 - Jan 2018 (Rio de Janeiro)
-- Led a greenfield digital transformation project as Pricing Division Head at Bank of Communications BBM.
-Architected and developed a scalable, centralized financial data hub, leveraging functional programming techniques to automate real-time calculations for a diverse range of asset classes, such as government and corporate bonds, equities, futures, options, CDS, interest rate swaps, and NDFs. 
-- Mapped business processes and implemented statistical validation mechanisms to ensure accuracy and reliability.
-- Developed new libraries and user-defined functions to enhance data processing and analysis capabilities.
+- Led the creation of the Pricing Division at Bank of Communications BBM
+- Architected and developed a scalable, centralized financial data hub, leveraging functional programming techniques to generate real-time calculations.
+- Assets classes included government and corporate bonds, CDS, IR and FX futures, swaps, options, and NDFs. 
+- Redesigned data pipeline and implemented statistical validation mechanisms to ensure accuracy and reliability.
 - Created hand-tailored routines for multiple divisions using REST APIs, facilitating seamless integration and improved efficiency.
-- Optimized operational performance within the Pricing division and delivered real-time financial analytics reports.
-- Successfully led to the establishment of a separate data science division as a result of the project's success.
+- Implemented new DBMS, stored procedues, used-defined functions and developed new quant-libraries to enhance PnL and MTM calculation.
+- Optimized operational performance and delivered real-time financial reports.
 
 ### Quantum Finance
 #### Quantitative Developer, Jul 2015 - Feb 2016 (Rio de Janeiro)
