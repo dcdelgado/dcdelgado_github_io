@@ -72,7 +72,7 @@
 - Reported findings to the fund's chief strategist.
 
 ### SPX Capital 
-#### Macro Research Analyst, Aug 2013 - Jan 2014 (Rio de Janeiro)
+#### Global Macro Research Analyst, Aug 2013 - Jan 2014 (Rio de Janeiro)
 - Conducted research and developed quantitative models for trading strategies in the commodities market.
 - Analyzed market data, performed statistical analysis, and implemented algorithmic trading strategies.
 
