@@ -99,11 +99,6 @@ models and Panel Data.
 - Teaching Assistant (2005)
 - Research Assistant at COPPEAD Graduate Business School (2006)
 
-## Certifications
-
-- Reinforcement Learning for Trading Strategies (Coursera, Feb 2020)
-- Advanced Machine Learning with TensorFlow on Google Cloud Platform (Coursera, Jan 2020)
-- Machine Learning (Coursera, Mar 2019)
 
 ## Skills
 Languages : Portuguese (native), English (C2), Spanish (C2), French (C1). 
