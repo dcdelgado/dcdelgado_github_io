@@ -4,13 +4,12 @@ CV - Danilo Delgado
 ## Experience
 
 ### Derivatives Trader, Raízen
-- Apr 2023 - Present · 2 mos
+- Jan 2023 - Present
 - Responsible for pricing and hedging of financial portfolio of clean petroleum products, aimed at supplying the Shell distribution network in the southern cone (Brazil, Uruguay, Paraguay, and Argentina).
 - Skills: Quantitative Finance, Team Management
 
-### Quant Consultant, Quaternion Risk Management
 ### Head of Quant, Raízen
-- Dec 2021 - Apr 2023 · 1 yr 5 mos
+- Dec 2021 - Jan 2023 · 1 yr 5 mos
 - Created the Systematic Trading and Options desk for oil, sugar, biofuels, and carbon markets.
 - Trained and managed a team of quantitative analysts, collaborated closely with traders to identify new trade opportunities.
 - Developed derivatives pricing models, systematic hedging strategies, and quant-risk libraries.
@@ -24,7 +23,8 @@ CV - Danilo Delgado
 - Implemented new financial controls, handled annual financial reporting with external auditors, managed FX execution, and created exposure reports.
 - Skills: Quantitative Finance, Team Management
 
-### UBS - Portfolio Quant Analytics
+### Quant Consultant, Quaternion Risk Management
+### Client: UBS - Portfolio Quant Analytics
 - Mar 2019 - Dec 2019 · 10 mos
 - Contributed to large-scale projects, including preparing a detailed report for FED-CCAR (Federal Reserve's Comprehensive Capital Analysis and Review), analyzing and assessing a mortgage-backed securities portfolio.
 - Conducted model validation, documentation, and testing for various asset-backed securities (ABS), residential mortgage-backed securities (RMBS), commercial mortgage-backed securities (CMBS), collateralized loan obligations (CLO), and collateralized debt obligations (CDO) products and derivatives.
@@ -33,7 +33,7 @@ CV - Danilo Delgado
 - Ensured compliance with regulatory requirements and provided a comprehensive overview of the mortgage-backed securities portfolio, highlighting effective risk management practices.
 - Skills: Quantitative Finance
 
-### Acadia - Risk Analytics
+### Client: Acadia - Risk Analytics
 - Nov 2018 - Feb 2019 · 4 mos
 - ISDA membership for Standard Initial Margin Model (SIMM) implementation is to ensure banking compliance with regulatory requirements for non-centrally cleared derivative trades.
 - Implemented new models to assess counterparty credit risk for uncleared over-the-counter (OTC) derivatives.
@@ -43,7 +43,7 @@ CV - Danilo Delgado
 - Utilized the QuantLib and Open-source Risk Engine libraries to develop Python and C++ models for pricing, risk analysis, and P&L Explain calculations within the context of ISDA SIMM (Standard Initial Margin Model). Ensured the reliability and scalability of the codebase by implementing testing methodologies and optimizing performance.
 - Skills: Quantitative Finance
 
-### Credit Suisse - Global Modeling and Analytics Group
+### Client: Credit Suisse - Global Modeling and Analytics Group
 - Aug 2018 - Oct 2018 · 3 mos
 - Contributed to the global modeling and analytics group's initiatives by conducting statistical tests to validate interest rate and foreign exchange (FX) models.
 - Assessed the performance and calibration of interest rate products and pricing models.
@@ -74,13 +74,13 @@ CV - Danilo Delgado
 - Skills: Economic Analysis, Forecasting
 
 ### SPX - Macro Research
-- Oct 2013 - Jan 2014 · 4 mos
+- Aug 2013 - Jan 2014 · 4 mos
 - Conducted research and developed quantitative models for trading strategies in the commodities market.
 - Analyzed market data, performed statistical analysis, and implemented algorithmic trading strategies.
 - Skills: Quantitative Finance, Algorithmic Trading
 
 ### World Bank - Research Assistant
-- Mar 2013 - Sep 2013 · 7 mos
+- Jul 2012 - Jul 2013 · 12 mos
 - Assisted with research on international development projects, particularly focusing on economic policy analysis and evaluation.
 - Conducted data analysis and contributed to research reports and publications.
 - Skills: Economic Analysis, Data Analysis
