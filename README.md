@@ -4,7 +4,6 @@
 **LinkedIn:** [https://www.linkedin.com/in/dcdelgado/](https://www.linkedin.com/in/dcdelgado/)  
 
 
-
 ## Experience
 
 ### Derivatives Trader, Raízen
@@ -27,7 +26,7 @@
 - Skills: Quantitative Finance, Team Management
 
 ### Quant Consultant, Quaternion Risk Management
-### Client: UBS - Portfolio Quant Analytics
+#### Client: UBS - Portfolio Quant Analytics
 #### Mar 2019 - Dec 2019
 - Contributed to large-scale projects, including preparing a detailed report for FED-CCAR (Federal Reserve's Comprehensive Capital Analysis and Review), analysing and assessing a mortgage-backed securities portfolio.
 - Conducted model validation, documentation, and testing for various asset-backed securities (ABS), residential mortgage-backed securities (RMBS), commercial mortgage-backed securities (CMBS), collateralized loan obligations (CLO), and collateralized debt obligations (CDO) products and derivatives.
@@ -35,7 +34,7 @@
 - Analysed forecasting models' performance, specifically focusing on cash flows, prepayment, default, and severity rates.
 - Ensured compliance with regulatory requirements and provided a comprehensive overview of the mortgage-backed securities portfolio, highlighting effective risk management practices.
 
-### Client: Acadia - Risk Analytics
+#### Client: Acadia - Risk Analytics
 #### Nov 2018 - Feb 2019
 - ISDA membership for Basel III Standard Initial Margin Model (SIMM) implementation is to ensure banking compliance with regulatory requirements for non-centrally cleared derivative trades.
 - Implemented new models to assess counterparty credit risk for uncleared over-the-counter (OTC) derivatives.
@@ -44,7 +43,7 @@
 - Provided sales support and contributed to pitching our services to new clients within top 20 global banks.
  - Utilized the QuantLib and Open-source Risk Engine libraries to develop Python and C++ models for pricing, risk analysis, and P&L Explain calculations within the context of ISDA SIMM (Standard Initial Margin Model). Ensured the reliability and scalability of the codebase by implementing testing methodologies and optimizing performance.
 
-### Client: Credit Suisse - Global Modeling and Analytics Group
+#### Client: Credit Suisse - Global Modeling and Analytics Group
 #### Aug 2018 - Oct 2018
 - In the context of Basel III IMM (Internal Model Method) and SA-CCR (Standardized Approach for Counterparty Credit Risk), I conducted statistical tests to validate the models and assess IR and FX products.
 
@@ -58,8 +57,9 @@ Architected and developed a scalable, centralized financial data hub, leveraging
 - Optimized operational performance within the Pricing division and delivered real-time financial analytics reports.
 - Successfully led to the establishment of a separate data science division as a result of the project's success.
 
-### Quantum - Quantitative Developer
-#### Developed a new alternative data product for clients in the banking, hedge fund, and institutional investor sectors.
+### Quantitative Developer, Quantum Finance
+#### Jul 2015 - Feb 2016
+Developed a new alternative data product for clients in the banking, hedge fund, and institutional investor sectors.
 - Gathered comprehensive data on government and corporate bonds, including traded prices, reference rates, ratings, balance sheet information, and issuer/issuance characteristics data.
 - Created automated applications to streamline daily routines and ensure timely and cost-effective updates to databases.
 - Offered risk analytics metrics such as yields, duration, discount margins, DV01/CD01, historical volatility of sovereign curves, and volatility surfaces.
@@ -72,12 +72,12 @@ Architected and developed a scalable, centralized financial data hub, leveraging
 - Communicated with AE Broadcast and Bloomberg agencies regarding economic conditions.
 - Reported findings to the fund's chief strategist.
 
-### SPX - Macro Research
+### Macro Research Analyst, SPX Capital 
 #### Aug 2013 - Jan 2014
 - Conducted research and developed quantitative models for trading strategies in the commodities market.
 - Analyzed market data, performed statistical analysis, and implemented algorithmic trading strategies.
 
-### World Bank - Research Assistant
+### Consultant, The World Bank 
 #### Jul 2012 - Jul 2013
 - Developed articles and institutional publications for the Office of the Chief Economist for Latin America and the Caribbean.
 - Covered topics including international capital flows, international trade, macroprudential policies, productivity, growth, and economic development.
@@ -104,3 +104,19 @@ models and Panel Data.
 - Reinforcement Learning for Trading Strategies (Coursera, Feb 2020)
 - Advanced Machine Learning with TensorFlow on Google Cloud Platform (Coursera, Jan 2020)
 - Machine Learning (Coursera, Mar 2019)
+
+## Skills
+Languages : Portuguese (native), English (C2), Spanish (C2), French (C1). 
+Tech Stack : Java, Scala, Spark, Python, Tensorflow, R, C++, Columnar SQL, MongoDB, Neo4j, MATLAB/Octave, Stata, MS Office, Power BI, VBA, Visual Studio, GIT, Docker, Mercurial, CI/CD, Swagger. 
+Data Tools: Bloomberg Terminal, Bloomberg Data License, Intex, Murex, AcadiaSoft. 
+Certificates: Reinforcement Learning For Trading Strategies (Google Cloud Platform 2020), Advanced Machine Learning With Tensorflow (Google Cloud Platform, 2020), Machine Learning (Stanford University, 2019).
+
+## Notes
+(i) The department of Economics at Pontifical Catholic University of Rio de Janeiro (PUC-Rio) is a world-class
+research institution which has been consistently ranked among the best Graduate Schools of Economics in
+Latin America. Its faculty consists of PhD researchers graduated from the world's best schools of Economics
+(Harvard, Stanford, MIT, Chicago, Berkeley, Princeton, LSE, etc.) and many of them have co-authored papers
+with Nobel Prize and Fields Medal laureates. Admissions occur through national exams and candidates ranked
+in the first percentiles are invited for graduate programs (Masters/PhD).
+(ii) The COPPEAD Graduate Business School has consistently been ranked as the best Business School in
+Brazil according to the Financial Times Global MBA Ranking.
