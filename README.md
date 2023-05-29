@@ -8,6 +8,7 @@ CV - Danilo Delgado
 - Responsible for pricing and hedging of financial portfolio of clean petroleum products, aimed at supplying the Shell distribution network in the southern cone (Brazil, Uruguay, Paraguay, and Argentina).
 - Skills: Quantitative Finance, Team Management
 
+### Quant Consultant, Quaternion Risk Management
 ### Head of Quant, Raízen
 - Dec 2021 - Apr 2023 · 1 yr 5 mos
 - Created the Systematic Trading and Options desk for oil, sugar, biofuels, and carbon markets.
