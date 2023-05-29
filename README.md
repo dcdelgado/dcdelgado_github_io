@@ -82,8 +82,18 @@ Architected and developed a scalable, centralized financial data hub, leveraging
 ## Education
 
 - Certificate in Quantitative Finance, CQF Institute (2019)
+
 - Master of Science (MSc) in Economics, Pontifícia Universidade Católica do Rio de Janeiro (2010-2012)
+- Concentration in Econometric Methods: Dynamic Stochastic General Equilibrium Models estimation,
+Bayesian Models, and Shrinkage Methods for High-Dimensional Data
+- Dissertation: “Moment-based estimation of nonlinear models” (Advisor: Marcelo Medeiros)
+- Teaching Assistant in Econometrics II (Masters and PhD): Discrete Choice models, Sample Selection
+models and Panel Data.
+
 - Bachelor of Science (BSc) in Economics, Federal University of Rio de Janeiro (2004-2009)
+- Ranked first in class in quantitative methods
+- Teaching Assistant (2005)
+- Research Assistant at COPPEAD Graduate Business School (2006)
 
 ## Certifications
 
