@@ -14,7 +14,6 @@ An experienced finance professional with a master's degree in Economics and a Ce
 ### Raízen Trading
 #### Derivatives Trader  - Jan 2023 - Present (Geneva)
 - Responsible for pricing and hedging of financial portfolio of clean petroleum products, aimed at supplying the Shell distribution network in the Southern Cone Common Market (Brazil, Uruguay, Paraguay, and Argentina).
-- Skills: Quantitative Finance, Team Management
 
 #### Head of Quant, Dec 2021 - Jan 2023 (Geneva)
 - Created the Systematic Trading and Options desk for oil, sugar, biofuels, and carbon markets.
@@ -26,7 +25,6 @@ An experienced finance professional with a master's degree in Economics and a Ce
 #### Risk and Front Office Control, Mar 2021 - Dec 2021 (Geneva)
 - Coordinated the implementation of a new Energy Trading and Risk Management system for managing the trade lifecycle of sugar, ethanol, and oil products.
 - Implemented new financial controls, handled annual financial reporting with external auditors, managed FX execution, and created exposure reports.
-- Skills: Quantitative Finance, Team Management
 
 ### Quaternion Risk Management
 #### Quant Consultant, Mar 2019 - Dec 2019 (London)
@@ -78,8 +76,9 @@ An experienced finance professional with a master's degree in Economics and a Ce
 
 ### SPX Capital 
 #### Global Macro Research Analyst, Aug 2013 - Jan 2014 (Rio de Janeiro)
-- Conducted research and developed quantitative models for trading strategies in the commodities market.
-- Analyzed market data, performed statistical analysis, and implemented algorithmic trading strategies.
+- Conducted economic analysis and forecasts for Japan, Canada, Chile, Mexico, and the USA.
+
+- Delivered weekly economic briefings to the macroeconomics committee for the fund's partners and managers.
 
 ### The World Bank 
 #### Consultant, Jul 2012 - Jul 2013 (Washington, DC)
