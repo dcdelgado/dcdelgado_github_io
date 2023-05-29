@@ -1,7 +1,7 @@
 # Danilo Caiano Delgado
 
 **Address:** Annemasse, Auvergne-Rhône-Alpes, France  
-**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/dcdelgado/)  
+**LinkedIn:** [https://www.linkedin.com/in/dcdelgado/](https://www.linkedin.com/in/dcdelgado/)  
 
 
 
