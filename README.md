@@ -72,6 +72,18 @@ CV - Danilo Delgado
 - Communicated with agencies regarding economic conditions.
 - Skills: Economic Analysis, Forecasting
 
+### SPX - Quantitative Researcher
+- Oct 2013 - Jan 2014 · 4 mos
+- Conducted research and developed quantitative models for trading strategies in the commodities market.
+- Analyzed market data, performed statistical analysis, and implemented algorithmic trading strategies.
+- Skills: Quantitative Finance, Algorithmic Trading
+
+### World Bank - Research Assistant
+- Mar 2013 - Sep 2013 · 7 mos
+- Assisted with research on international development projects, particularly focusing on economic policy analysis and evaluation.
+- Conducted data analysis and contributed to research reports and publications.
+- Skills: Economic Analysis, Data Analysis
+
 ## Education
 
 - Certificate in Quantitative Finance, CQF Institute (2019)
