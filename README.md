@@ -72,7 +72,7 @@ CV - Danilo Delgado
 - Communicated with agencies regarding economic conditions.
 - Skills: Economic Analysis, Forecasting
 
-### SPX - Quantitative Researcher
+### SPX - Macro Research
 - Oct 2013 - Jan 2014 · 4 mos
 - Conducted research and developed quantitative models for trading strategies in the commodities market.
 - Analyzed market data, performed statistical analysis, and implemented algorithmic trading strategies.
