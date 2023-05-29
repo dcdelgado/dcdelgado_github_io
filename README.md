@@ -87,6 +87,7 @@ An experienced finance professional with a master's degree in Economics and a Ce
 - Covered topics including international capital flows, international trade, macroprudential policies, productivity, growth, and economic development.
 - Collaborated in the development of two institutional publications: "Economic Mobility and the Rise of the Latin American Middle Class" and "Latin America and the Caribbean as Tailwinds Recede: In Search of Higher Growth.
 
+  
 ## Education
 
 ### Certificate in Quantitative Finance, CQF Institute (2019)
