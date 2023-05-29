@@ -78,7 +78,6 @@ Architected and developed a scalable, centralized financial data hub, leveraging
 - Developed articles and institutional publications for the Office of the Chief Economist for Latin America and the Caribbean.
 - Covered topics including international capital flows, international trade, macroprudential policies, productivity, growth, and economic development.
 - Collaborated in the development of two institutional publications: "Economic Mobility and the Rise of the Latin American Middle Class" and "Latin America and the Caribbean as Tailwinds Recede: In Search of Higher Growth.
-- Reported findings to the Deputy Chief Economist for Latin America and the Caribbean.
 
 ## Education
 
