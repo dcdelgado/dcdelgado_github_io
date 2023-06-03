@@ -37,7 +37,7 @@ An experienced finance professional with a master's degree in Economics and a Ce
 
 #### Quant Consultant, Nov 2018 - Feb 2019 (London)
 #### Client: Acadia - Risk Analytics
-- ISDA membership for Basel III Standard Initial Margin Model (SIMM) implementation is to ensure banking compliance with regulatory requirements for non-centrally cleared derivative trades.
+- ISDA membership for Basel III Standard Initial Margin Model (SIMM) implementation to ensure banking compliance with regulatory requirements for non-centrally cleared derivative trades.
 - Implemented new models to assess counterparty credit risk for uncleared over-the-counter (OTC) derivatives.
 - Analysed various cash and derivative products, including interest rate (IR), inflation, credit, commodities, and foreign exchange (FX).
 - Calculated risk metrics such as mark-to-market (MtM), profit and loss (PnL), value at risk (VaR), expected exposure (EE)/potential future exposure (PFE), and XVA. Products range included Interest Rate Swaps, Cross-Currency Swaps, FX Forwards, FX Swaps, FX Options and other exotic IRFX derivatives. 
