@@ -6,13 +6,12 @@
 
 ## About
 
-An experienced finance professional with a master's degree in Economics and a Certificate in Quantitative Finance, background in trading, risk management, pricing, hedging, and economic research. Has a comprehensive skillset, including expertise in quantitative development, modelling, research, software development, and team management. Works as a derivatives trader responsible for pricing and hedging financial portfolio of Raizen's oil imports that supplies Shell's distribution network in Brazil, Argentina, Paraguay, and Uruguay. Held the position of Head of Quant at Raízen Trading, leading the development of derivatives pricing models, proxy-hedging models, and systematic hedging strategies. Worked as a Quant Consultant, contributing to large-scale projects related to portfolio risk assessment for reputable organizations such as UBS,  Credit Suisse, and Acadia (LSEG). Started the career as a researcher at the Latam's Office of the Chief Economist at the World Bank Group (USA).
-
+An experienced finance professional with a master's degree in Economics and a Certificate in Quantitative Finance, background in trading, risk management, pricing, hedging, and economic research. Has a comprehensive skillset, including expertise in quantitative development, modelling, research, software development, and team management. Worked as a derivatives trader responsible for pricing and hedging financial portfolio of Raizen's oil imports that supplies Shell's distribution network in Brazil, Argentina, Paraguay, and Uruguay. Held the position of Head of Quant at Raízen Trading, leading the development of derivatives pricing models, proxy-hedging models, and systematic hedging strategies. Worked as a Quant Consultant, contributing to large-scale projects related to portfolio risk assessment for reputable organizations such as UBS,  Credit Suisse, and Acadia (LSEG). Started the career as a researcher at the Latam's Office of the Chief Economist at the World Bank Group (USA).
 
 ## Experience
 
 ### Raízen Trading
-#### Derivatives Trader  - Jan 2023 - Present (Geneva)
+#### Derivatives Trader  - Jan 2023 - Jun 2023 (Geneva)
 - Responsible for pricing and hedging of financial portfolio of clean petroleum products, aimed at supplying the Shell distribution network in the Southern Cone Common Market (Brazil, Uruguay, Paraguay, and Argentina).
 
 #### Head of Quant, Dec 2021 - Jan 2023 (Geneva)
@@ -46,7 +45,6 @@ An experienced finance professional with a master's degree in Economics and a Ce
 
 #### Quant Consultant, Aug 2018 - Oct 2018 (London)
 #### Client: Credit Suisse - Global Modeling and Analytics Group
-
 - In the context of Basel III IMM (Internal Model Method) and SA-CCR (Standardized Approach for Counterparty Credit Risk), I conducted statistical tests to validate the models and assess IR and FX products.
 
 ### Bank of Communications BBM
@@ -77,7 +75,6 @@ An experienced finance professional with a master's degree in Economics and a Ce
 ### SPX Capital 
 #### Global Macro Research Analyst, Aug 2013 - Jan 2014 (Rio de Janeiro)
 - Conducted economic analysis and forecasts for Japan, Canada, Chile, Mexico, and the USA.
-
 - Delivered weekly economic briefings to the macroeconomics committee for the fund's partners and managers.
 
 ### The World Bank 
@@ -85,7 +82,6 @@ An experienced finance professional with a master's degree in Economics and a Ce
 - Developed articles and institutional publications for the Office of the Chief Economist for Latin America and the Caribbean.
 - Covered topics including international capital flows, international trade, macroprudential policies, productivity, growth, and economic development.
 - Collaborated in the development of two institutional publications: "Economic Mobility and the Rise of the Latin American Middle Class" and "Latin America and the Caribbean as Tailwinds Recede: In Search of Higher Growth.
-
   
 ## Education
 
@@ -106,8 +102,8 @@ models and Panel Data.
 
 ## Skills
 Languages : Portuguese (native), English (C2), Spanish (C2), French (C1). 
-Tech Stack : Java, Scala, Spark, Python, Tensorflow, R, C++, Columnar SQL, MongoDB, Neo4j, MATLAB/Octave, Stata, MS Office, Power BI, VBA, Visual Studio, GIT, Docker, Mercurial, CI/CD, Swagger. 
-Data Tools: Bloomberg Terminal, Bloomberg Data License, Intex, Murex, AcadiaSoft. 
+Tech Stack : MS Office, Python, Scala, Spark, Tensorflow, R, C++, SQL, Neo4j, MATLAB/Octave, Stata, GIT
+Other tech:  Java, Power BI, VBA, Visual Studio,  Docker, Mercurial, CI/CD, Swagger, MongoDB
 Certificates: Reinforcement Learning For Trading Strategies (Google Cloud Platform 2020), Advanced Machine Learning With Tensorflow (Google Cloud Platform, 2020), Machine Learning (Stanford University, 2019).
 
 ## Notes
